@@ -1,0 +1,70 @@
+body {
+	   background: #FFFFFF
+}
+
+#banner{
+	width: 100%;
+}
+
+.principal{
+	background: #CCCCCC
+	padding: 30px;
+}
+
+.titulolateral{
+	
+	font-size: 25px;
+}  
+
+.titulo-centralizado {
+     text-align: center;
+}
+
+p {
+	text-align:center
+
+}
+
+.itens {
+
+ font-style: italic 
+}
+.simtomas{
+	padding : 50px;
+
+}
+ul {
+	display: inline-block;
+    vertical-align: top;
+    width: 40%;
+    margin-right: 20%; }
+
+.imagemancioso {
+    width: 50%;
+}
+
+.tamanhofonte{
+
+	font-size :40px;
+}
+
+.tamanhosubtitulo{
+
+	font-size: 25px;
+}
+
+.tamanhotilulo {
+
+	font-size: 35px;
+	
+}
+
+.tamanhotexto {
+
+	font-size: 15px;
+}
+
+.textodireita{
+
+	text-align: right;
+}
